@@ -1,4 +1,5 @@
-# Novela das 9 - Pantanal 
+# Novela das 9 - Pantanal
+Em 2022 meu primeiro site foi inspirado na novela Pantanal, agora nesse ano 2025 eu decidir recriar meu primeiro site usando tudo que eu aprendi no curso.
 
 ## Data
 03/03/2025
