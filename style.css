@@ -118,7 +118,7 @@ body{
 /*---Elenco---*/
 .elenco{
     width: 100%;
-    padding: 20px;
+    padding: 10px;
     color: white;
 }
 
@@ -138,6 +138,7 @@ body{
     gap: 1rem;
     background-color: rgba(0, 0, 0, 0.338);
     backdrop-filter: blur(30px);
+    border-top: 1px solid white;
 }
 
 .card{
